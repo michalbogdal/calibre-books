@@ -55,4 +55,12 @@ Go to the dropbox app console_ and set your webook url `https://your-domain/drop
     python manage.py synchronize
 
 Each time when you change something in the `Calibre` application, `Dropbox` will send callback to synchronize data.
+
+Docker
+-----
+
+::
+  
+    docker build -t calibre-book .
+    docker run calibre-book
   

@@ -33,5 +33,4 @@ static3==0.6.1            # via dj-static
 tqdm==3.8.0
 unidecode==0.4.19
 urllib3==1.14             # via dropbox
-uwsgi==2.0.12
 whoosh==2.7.2
